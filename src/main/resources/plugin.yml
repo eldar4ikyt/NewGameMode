@@ -1,0 +1,3 @@
+name: NewGameMode
+version: ${project.version}
+main: cloudstudio.NewGameMode.Main
